@@ -63,9 +63,9 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
 
 ### ✍️ Recent Blog Posts
 
-- **[Mastering CSS Flexbox](https://medium.com/@your-username/mastering-css-flexbox)**
-- **[Designing with Figma: Tips & Tricks](https://medium.com/@your-username/designing-with-figma-tips-tricks)**
-- **[Building a RESTful API with Python](https://medium.com/@your-username/building-a-restful-api-with-python)**
+- **[Mastering CSS Flexbox](https://medium.com/@Stha-Parichit/mastering-css-flexbox)**
+- **[Designing with Figma: Tips & Tricks](https://medium.com/@Stha-Parichit/designing-with-figma-tips-tricks)**
+- **[Building a RESTful API with Python](https://medium.com/@Stha-Parichit/building-a-restful-api-with-python)**
 
 *(Check out my [Blog](https://medium.com/@your-username) for more articles!)*
 
@@ -86,4 +86,4 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Stha-Parichit&color=brightgreen)
