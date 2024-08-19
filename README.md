@@ -75,7 +75,7 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
 ### 🤝 Let's Connect
 
 - **Email:** [parichit562181@gmail.com](mailto:parichit562181@gmail.com)
-- **LinkedIn:** [Parichit Shrestha](https://linkedin.com/in/Parichit)
+- **LinkedIn:** [Parichit Shrestha](https://linkedin.com/in/parichit-shrestha)
 - **Personal Website:** [www.yourwebsite.com](https://www.yourwebsite.com)
 
 ---
