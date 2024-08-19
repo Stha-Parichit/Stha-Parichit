@@ -24,7 +24,8 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
   - HTML5 & CSS3 🎨 
   - JavaScript (ES6+) 🌐 
   - Java ☕ 
-  - Python 🐍 
+  - Python 🐍
+  - PHP 🐘
 
 - **Design Tools:** 
   - Figma 🎨 
