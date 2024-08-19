@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name]! 👩‍💻
+# Hello, I'm Parichit Shrestha! 👩‍💻
 
 ---
 
-![Profile Banner](https://user-images.githubusercontent.com/Stha-Parichit/banner.jpg) <!-- Add a custom banner image or link -->
+![Profile Banner](https://github.com/Stha-Parichit/profile-assets/blob/main/IMG_20231117_163259_685%5B1%5D.jpg?raw=true)
 
 ### 👋 Welcome to My GitHub Profile
 
