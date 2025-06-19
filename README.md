@@ -45,11 +45,11 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
   
 - **[Task Manager](https://stha-parichit.github.io/Task-Manager/)** 📝
   - A web-based task management app with a clean UI/UX.
-  - **Tech Stack:** HTML, CSS, JavaScript, Python
+  - **Tech Stack:** HTML, CSS, JavaScript
 
-- **[Interactive Dashboard](https://github.com/Stha-Parichit/interactive-dashboard)** 📊
+- **[Interactive Dashboard](https://stha-parichit.github.io/Interactive-Dashboard/)** 📊
   - A data visualization tool with dynamic charts and graphs.
-  - **Tech Stack:** JavaScript, D3.js, HTML, CSS
+  - **Tech Stack:** JavaScript, HTML, CSS
 
 ---
 
