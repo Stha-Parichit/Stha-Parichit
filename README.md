@@ -43,7 +43,7 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
   - A personal portfolio showcasing my projects and design skills.
   - **Tech Stack:** HTML, CSS, JavaScript, Figma
   
-- **[Task Manager](https://github.com/Stha-Parichit/task-manager)** 📝
+- **[Task Manager](https://stha-parichit.github.io/Task-Manager/)** 📝
   - A web-based task management app with a clean UI/UX.
   - **Tech Stack:** HTML, CSS, JavaScript, Python
 
