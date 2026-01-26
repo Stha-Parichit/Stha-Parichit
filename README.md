@@ -39,7 +39,7 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
 
 ### 🌟 Featured Projects
 
-- **[Portfolio Website](https://stha-parichit.github.io/Portfolio/)** 🌐
+- **[Portfolio Website](https://portfolio-second-zeta.vercel.app/)** 🌐
   - A personal portfolio showcasing my projects and design skills.
   - **Tech Stack:** HTML, CSS, JavaScript, Figma
   
