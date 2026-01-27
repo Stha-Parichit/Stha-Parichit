@@ -42,6 +42,10 @@ I'm a **Software Engineer** with a passion for **Web Development** and **UI/UX D
 - **[Portfolio Website](https://portfolio-second-zeta.vercel.app/)** 🌐
   - A personal portfolio showcasing my projects and design skills.
   - **Tech Stack:** HTML, CSS, JavaScript, Figma
+ 
+- **[Weather App](https://weatherapp-lovat-pi-62.vercel.app/)** ☁️
+  - A personal portfolio showcasing my projects and design skills.
+  - **Tech Stack:** HTML, CSS, JavaScript
   
 - **[Task Manager](https://stha-parichit.github.io/Task-Manager/)** 📝
   - A web-based task management app with a clean UI/UX.
